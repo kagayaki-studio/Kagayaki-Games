@@ -1,78 +1,69 @@
-<img width="1080" height="2400" alt="Screenshot_2026-10-03-20-56-17-582_com htmltoapk kagayaki" src="https://github.com/user-attachments/assets/9f4b84d9-9d59-4198-bd26-2b4551a93b6f" />
-<img width="1080" height="2400" alt="Screenshot_2026-10-03-20-56-34-613_com htmltoapk kagayaki" src="https://github.com/user-attachments/assets/b46029d6-6a8d-4e07-b726-f09ed3e5e195" />
-<img width="1080" height="2400" alt="Screenshot_2026-10-03-20-57-15-060_com htmltoapk kagayaki" src="https://github.com/user-attachments/assets/ae760f74-f293-42cf-8dc6-ec052463a392" />
-<img width="1080" height="2400" alt="Screenshot_2026-10-03-20-58-28-640_com htmltoapk kagayaki" src="https://github.com/user-attachments/assets/dfba7e7a-9a58-4d1b-8f07-9fa175a35a40" />
-<img width="1080" height="2400" alt="Screenshot_2026-10-03-21-00-26-816_com htmltoapk kagayaki" src="https://github.com/user-attachments/assets/4cbd52b1-5bf6-4b20-be4c-b669ad8bf003" />
 # 🌟 Kagayaki — Manga Career OS
 
 ![Version](https://img.shields.io/badge/version-v2.2-ff3b5c?style=for-the-badge)
-![Platform](https://img.shields.io/badge/platform-Web%20%7C%20Mobile-39e0ff?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-Android%20%7C%20Web-39e0ff?style=for-the-badge)
+![Build](https://img.shields.io/badge/built%20with-HTMLtoAPK-37e2a0?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-a06bff?style=for-the-badge)
-![Made With](https://img.shields.io/badge/made%20with-HTML%20%2F%20CSS%20%2F%20JS-37e2a0?style=for-the-badge)
 
 > **"Tokyo'da küçük bir oda, büyük bir hayal."**  
-> Kagayaki; kendi manga serinizi oluşturup sıfırdan zirveye tırmandığınız, stüdyonuzu yönetip eserinizi devasa bir animeye dönüştürdüğünüz interaktif bir **Manga & Anime Stüdyo Simülasyonu**dur.
+> **Kagayaki**; kendi manga serinizi oluşturup sıfırdan zirveye tırmandığınız, stüdyonuzu yönetip eserinizi devasa bir animeye dönüştürdüğünüz mobil uyumlu bir **Manga & Anime Stüdyo Simülasyonu**dur.
 
 ---
 
-## 📖 Oyun Hikâyesi & Konsepti
+## 📖 Oyun Hikâyesi
 
 Japonya'da yaşayan genç bir otakusunuz. Günleriniz anime maratonları, eskiz defterleri ve bitmeyen fikirlerle geçiyor. Dünyanın en iyi animesini yapmak istiyorsunuz; ama sektörün kapısı bir animeyle değil, **kendi evinizde çizdiğiniz ilk mangayla** açılıyor.
 
-Kendi yazar adınızı ve stüdyonuzu kurun, çizim akademisine katılarak yeteneğinizi geliştirin. Hikâyeniz **12 bölümlük ritmi** yakaladığında ve gerçek bir hayran kitlesine ulaştığında, anime stüdyoları kapınızı çalmaya başlayacak!
+Şimdi kendi yazar adınızı ve stüdyonuzu kurun. Çizim kurslarına katılın, yeteneğinizi geliştirin, bölüm bölüm okur kazanın. Hikâyeniz **12 bölümlük ritmi** yakaladığında ve gerçek bir hayran kitlesine ulaştığında, anime stüdyoları kapınızı çalacak!
 
 ---
 
-## ✨ Öne Çıkan Özellikler
+## ✨ Öne Çıkan Oyun İçi Özellikler
 
-### 🏢 Stüdyo & Merkez Yönetimi
-* **Kasa & Finans:** ₺45.000 başlangıç sermayesi ile bütçenizi dengeli yönetin, bölüm gelirleri ve özel anlaşmalarla kasanızı büyütün.
-* **Enerji Yönetimi:** Her hafta yenilenen 100/100 enerji seviyenizi aşırı tüketmeden çizim ve geliştirmelere ayırın.
-* **İtibar Sistemi:** Okur ve sektör üzerindeki etkinizi artırarak prestij kazanın.
+### 🏠 Stüdyo & Merkez
+* **Kasa & Bütçe Yönetimi:** ₺45.000 başlangıç sermayesi ile kasanızı yönetin. Bölüm gelirleri ve sponsorluk anlaşmalarıyla gelirinizi artırın.
+* **Enerji Sistemi:** Her hafta başında yenilenen **100 / 100 Enerji** puanınızı çizim, eğitim ve yönetim işleri arasında dengeli dağıtın.
+* **İtibar & Hayran Kitlesi:** Okur ve sektör üzerindeki etkinizi artırarak (İtibar 8/100) topluluğunuzu büyütün.
 
-### 🎨 Ekip & Çalışma Alanı
-* **Çizim Akademisi:** Bölüm kalitenizi artırmak için her hafta çizim kurslarına (₺10.000) yatırım yapın.
-* **Ofis Yükseltmeleri:** Ev oturduğunuz küçük odadan başlayın, geliriniz büyüdükçe paylaşımlı ofislere (₺80.000) geçiş yapın.
-* **Rol Bazlı İşe Alım:** Yazar, çizer ve yaratıcı yönetmen rollerinde ekibinizi genişletin.
+### 🎨 Ekip, Eğitim & Ofis
+* **Çizim Akademisi:** Bölüm kalitenizi ve puanınızı yükseltmek için haftalık çizim kurslarına (₺10.000) yatırım yapın.
+* **Çalışma Alanı (Ofis):** Evdeki küçük odanızdan başlayın; bütçeniz büyüdükçe paylaşımlı ofislere (₺80.000) geçiş yapın.
+* **Rol Bazlı İşe Alım:** Ekibinize yeni çizerler, yazarlar ve yardımcı editörler dâhil edin.
 
-### 📈 Pazar & Anlaşmalar
-* **Yayıncı Anlaşmaları:** *Akari Books* ile cilt dağıtımları yapın.
-* **Etkinlikler:** *Moonlight Festival* gibi organizasyonlara katılarak hayran kitlenizi patlatın.
-* **Anime Opsiyonları:** *Meridian Network* gibi dev ağlarla 12 bölümlük anime sözleşmeleri imzalayın.
-* **Misafir Yazar / Collab:** Yüksek risk/ödül oranına sahip ortak projeler yapın.
+### 📈 Pazar & Yayıncı Anlaşmaları
+* **Akari Books (₺32K):** İlk manga cildi dağıtımı (+2 İtibar).
+* **Moonlight Festival (₺18K):** Yeni yazar gösterimi (+800 Hayran).
+* **Meridian Network (₺129K):** 12 bölümlük anime opsiyon sözleşmesi.
+* **Misafir Yazar / Collab:** Başka yazarlarla 1 bölümlük ortak projeler (Yüksek risk / yüksek ödül).
 
-### 📱 Kagayaki Social
-* **Sosyal Medya Akışı:** Hayranlarınızla iletişimde kalın, teorileri okuyun ve stüdyo hayatınızdan kesitler paylaşın.
-* **Topluluk Etkileşimi:** Gönderilerinize gelen yanıtlarla hayran kitlenizi büyütün.
+### 💬 Kagayaki Social & Anime Sıralaması
+* **Sosyal Medya Akışı:** Gönderiler paylaşın, hayranların teorilerine yanıt verin ve etkileşimi artırın.
+* **Sektör Sıralaması:** Diğer popüler serilerle yarışarak anime sıralamasında 1. sıraya tırmanın.
 
 ---
 
-## 📸 Ekran Görüntüleri
+## 📸 Oyun İçi Görseller
 
-| Giriş & Kayıt | Hikaye Başlangıcı | Stüdyo Merkezi |
+| Kayıt & Giriş | Hikaye Başlangıcı | Stüdyo Merkezi |
 | :---: | :---: | :---: |
-| <img src="1000250253.jpg" width="250"> | <img src="1000250254.jpg" width="250"> | <img src="1000250255.jpg" width="250"> |
+| <img src="https://github.com/user-attachments/assets/b46029d6-6a8d-4e07-b726-f09ed3e5e195" width="220"> | <img src="https://github.com/user-attachments/assets/9f4b84d9-9d59-4198-bd26-2b4551a93b6f" width="220"> | <img src="https://github.com/user-attachments/assets/ae760f74-f293-42cf-8dc6-ec052463a392" width="220"> |
 
-| Pazar & Anlaşmalar | Ekip & Gelişim | Kagayaki Social |
-| :---: | :---: | :---: |
-| <img src="1000250260.jpg" width="250"> | <img src="1000250261.jpg" width="250"> | <img src="1000250262.jpg" width="250"> |
+| Pazar & Anlaşmalar | Ekip & Gelişim |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/dfba7e7a-9a58-4d1b-8f07-9fa175a35a40" width="220"> | <img src="https://github.com/user-attachments/assets/4cbd52b1-5bf6-4b20-be4c-b669ad8bf003" width="220"> |
 
 ---
 
 ## 🛠️ Teknolojiler
 
-Proje herhangi bir harici sunucu bağımlılığı olmadan tamamen istemci tarafında (Client-Side) çalışır:
-
-* **Frontend:** HTML5, CSS3 (Custom Neon Dark Theme), Pure JavaScript
-* **Storage:** `localStorage` (Yerel Veri Saklama — Tüm ilerleme cihazınızda güvende kalır)
-* **Build / App Format:** HTMLtoAPK altyapısı ile mobil uyumlu PWA / APK mimarisi.
+* **Frontend:** HTML5, CSS3 (Neon Dark UI), JavaScript (Pure Vanilla JS)
+* **Yerel Kayıt:** `localStorage` (v2.2 yerel kayıt sistemi — veriler cihazınızda saklanır)
+* **Mobil Çıktı:** HTMLtoAPK altyapısı ile kesintisiz Android APK desteği.
 
 ---
 
 ## 🚀 Hızlı Başlangıç
 
-Projeyi yerel makinenizde çalıştırmak için:
-
 1. Repoyu klonlayın:
    ```bash
-   git clone [https://github.com/kullanici-adi/Kagayaki.git](https://github.com/kullanici-adi/Kagayaki.git)
+   git clone [https://github.com/kagayaki-studio/Kagayaki-Games.git](https://github.com/kagayaki-studio/Kagayaki-Games.git)
