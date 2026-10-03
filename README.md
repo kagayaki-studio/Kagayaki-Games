@@ -44,7 +44,7 @@ Japonya'da yaşayan genç bir otakusunuz. Günleriniz anime maratonları, eskiz 
 
 ## 📸 Oyun İçi Görseller
 
-| Kayıt & Giriş | Hikaye Başlangıcı | Stüdyo Merkezi |
+| Hikaye Başlangıcı | Kayıt & Giriş | Stüdyo Merkezi |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/b46029d6-6a8d-4e07-b726-f09ed3e5e195" width="220"> | <img src="https://github.com/user-attachments/assets/9f4b84d9-9d59-4198-bd26-2b4551a93b6f" width="220"> | <img src="https://github.com/user-attachments/assets/ae760f74-f293-42cf-8dc6-ec052463a392" width="220"> |
 
