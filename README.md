@@ -1,3 +1,8 @@
+<img width="1080" height="2400" alt="Screenshot_2026-10-03-20-56-17-582_com htmltoapk kagayaki" src="https://github.com/user-attachments/assets/9f4b84d9-9d59-4198-bd26-2b4551a93b6f" />
+<img width="1080" height="2400" alt="Screenshot_2026-10-03-20-56-34-613_com htmltoapk kagayaki" src="https://github.com/user-attachments/assets/b46029d6-6a8d-4e07-b726-f09ed3e5e195" />
+<img width="1080" height="2400" alt="Screenshot_2026-10-03-20-57-15-060_com htmltoapk kagayaki" src="https://github.com/user-attachments/assets/ae760f74-f293-42cf-8dc6-ec052463a392" />
+<img width="1080" height="2400" alt="Screenshot_2026-10-03-20-58-28-640_com htmltoapk kagayaki" src="https://github.com/user-attachments/assets/dfba7e7a-9a58-4d1b-8f07-9fa175a35a40" />
+<img width="1080" height="2400" alt="Screenshot_2026-10-03-21-00-26-816_com htmltoapk kagayaki" src="https://github.com/user-attachments/assets/4cbd52b1-5bf6-4b20-be4c-b669ad8bf003" />
 # 🌟 Kagayaki — Manga Career OS
 
 ![Version](https://img.shields.io/badge/version-v2.2-ff3b5c?style=for-the-badge)
